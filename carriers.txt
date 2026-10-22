@@ -1,0 +1,23 @@
+progressive|Progressive
+aig|AIG
+chubb|Chubb
+travelers|Travelers
+the-hartford|The Hartford
+metlife|MetLife
+preferred-mutual|Preferred Mutual
+plymouth-rock|Plymouth Rock
+franklin-mutual-insurance|Franklin Mutual Insurance
+palisades|Palisades
+foremost|Foremost
+assurant|Assurant
+philadelphia-insurance-companies|Philadelphia Insurance Companies
+service-insurance-companies|Service Insurance Companies
+cna-surety|CNA Surety
+national-flood-insurance-program|National Flood Insurance Program
+neptune-flood|Neptune Flood
+hagerty|Hagerty
+american-collectors-insurance|American Collectors Insurance
+jc-taylor|J.C. Taylor
+condon-skelly|Condon Skelly
+rider-insurance|Rider Insurance
+global-aerospace|Global Aerospace
